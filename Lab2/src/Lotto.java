@@ -23,7 +23,7 @@ public class Lotto {
         ArrayList<Integer> list = new ArrayList<Integer>();
         int hits=0;
         for (int i = 0;i<6;i++) {
-            int r = rand.nextInt(50);
+            int r = rand.nextInt(20);
             list.add(r);
             //System.out.println(list.get(i));
             if(list.get(i)== Integer.parseInt(args[i])){
