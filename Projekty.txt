@@ -69,7 +69,7 @@ Mateusz Maślanka, Piotr Kolenda
 29) Wirtualny Tamagotchi: Opieka nad stworkiem (karmienie, zabawa, leczenie), który zmienia stan w czasie rzeczywistym.
 
 30) Komunikator Tekstowy (Chat): Obsługa użytkowników, wiadomości prywatnych, grupowych, statusów obecności i historii.
-
+Maciej Woźniak, Maciej Antosz
 Kategoria D: Propozycje własne studentów.
 
 31) PDF Kreator: serwer, klient (+UI), konsola, baza danych: Generowanie pdfów na podstawie danych użytkownika(?), sugestie wyboru pracy i ścieżki dokształcania
